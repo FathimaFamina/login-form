@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h3 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+  
+}
+
+
+
+/* .group {
+    
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.group {
+    color: white;
+    font-size: 18px;
+    padding: 4px;
+}
+.form-fields input{
+   width: 100% !important;
+   padding: 8px;
+   outline: 0;
+   border: 0;
+   border-radius: 5px;
+} */
+
+/* login-page */
+.login {
+    max-width: 570px;
+    background: linear-gradient(135deg,#00feba,#5b548a);
+    color: #fff;
+    margin: 100px auto 0;
+    border-radius: 20px;
+    padding: 40px 35px;
+    height:80vh;
+}
+.input-field {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 70px;
+}
+
+.input-field input {
+   
+    width: 50%;
+    padding:10px !important;
+    outline: 0;
+    border: 0;
+    border-radius: 5px;
+  
+}
+.input-field label {
+    text-align: left !important;
+    font-size: 18px;
+    
+}
+.btn-danger {
+    margin: 40px 0;
+}
+.input-field a{
+    color: red;
+    text-decoration: none;
+    
+}
+
+.logout {
+    max-width: 570px;
+    background: linear-gradient(135deg,#00feba,#5b548a);
+    color: #fff;
+    margin: 100px auto 0;
+    border-radius: 20px;
+    padding: 40px 35px;
+    height:80vh;
+}
